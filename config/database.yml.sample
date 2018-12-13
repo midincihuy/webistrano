@@ -33,4 +33,4 @@ production:
   database: webistrano_production
   username: root
   password: 
-  socket: /tmp/mysql.sock
+  socket: /var/run/mysqld/mysqld.sock
