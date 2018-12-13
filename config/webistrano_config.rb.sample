@@ -6,7 +6,7 @@
 WebistranoConfig = {
 
   # secret password for session HMAC
-  :session_secret => 'please choose a long random string, min. 30 characters',
+  :session_secret => '4bf6492c33108817b678cee177b628e6',
 
   # Uncomment to use CAS authentication
   # :authentication_method => :cas,
